@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Chronic Kidney Disease Prediction 🩺
 
 ## 📌 Project Overview
@@ -185,4 +185,4 @@ This project enables prediction of Chronic Kidney Disease (CKD) using machine le
 =======
 # Chronic-Kidney-Disease-Prediction-Using-Machine-Learning
 This project focuses on building a machine learning model to predict Chronic Kidney Disease (CKD) using patient clinical and laboratory data. Early detection of CKD can help initiate timely treatment and reduce long-term health complications.
->>>>>>> d858a649ba81d9d613891e77dcab88697fb490df
+
