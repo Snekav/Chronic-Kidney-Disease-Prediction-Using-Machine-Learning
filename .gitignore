@@ -1,0 +1,23 @@
+# Virtual environments
+venv/
+env/
+kidney_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Datasets
+data/
+*.csv
+*.zip
+
+# Models
+models/
+*.pkl
+*.joblib
+*.h5
+
+# OS files
+.DS_Store
+Thumbs.db

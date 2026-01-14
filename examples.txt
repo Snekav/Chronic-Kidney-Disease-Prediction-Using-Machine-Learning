@@ -1,0 +1,54 @@
+Example 1: Patient with Chronic Kidney Disease
+----------------------------------------------
+Age: 60
+Blood Pressure (bp): 90
+Specific Gravity (sg): 1.010
+Albumin (al): 3
+Sugar (su): 1
+Red Blood Cells (rbc): 0 (Abnormal)
+Pus Cell (pc): 0 (Abnormal)
+Pus Cell Clumps (pcc): 1 (Present)
+Bacteria (ba): 1 (Present)
+Blood Glucose Random (bgr): 200
+Blood Urea (bu): 80
+Serum Creatinine (sc): 5.5
+Sodium (sod): 120
+Potassium (pot): 6.0
+Hemoglobin (hemo): 9.5
+Packed Cell Volume (pcv): 28
+White Blood Cell Count (wc): 12000
+Red Blood Cell Count (rc): 3.0
+Hypertension (htn): 1 (Yes)
+Diabetes Mellitus (dm): 1 (Yes)
+Coronary Artery Disease (cad): 1 (Yes)
+Appetite (appet): 0 (Poor)
+Pedal Edema (pe): 1 (Yes)
+Anemia (ane): 1 (Yes)
+
+Expected Prediction: Chronic Kidney Disease
+
+
+Example 2: Patient without Chronic Kidney Disease
+-------------------------------------------------
+Age: 25
+Blood Pressure (bp): 80
+Specific Gravity (sg): 1.020
+Albumin (al): 0
+Sugar (su): 0
+Red Blood Cells (rbc): 1 (Normal)
+Pus Cell (pc): 1 (Normal)
+Pus Cell Clumps (pcc): 0 (Not Present)
+Bacteria (ba): 0 (Not Present)
+Blood Glucose Random (bgr): 70
+Blood Urea (bu): 25
+Serum Creatinine (sc): 0.8
+Sodium (sod): 135
+Potassium (pot): 4.5
+Hemoglobin (hemo): 14.5
+Packed Cell Volume (pcv): 41
+White Blood Cell Count (wc): 8000
+Red Blood Cell Count (rc): 5.2
+Hypertension (htn): 0 (No)
+Diabetes Mellitus (dm): 0 (No)
+Coronary Artery Disease (cad): 0 (No)
+Appetite (
